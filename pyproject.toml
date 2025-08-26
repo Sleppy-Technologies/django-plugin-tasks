@@ -1,6 +1,6 @@
 [project]
 name = "django-plugin-tasks"
-version = "0.1.0"
+version = "0.1.1"
 description = "Django plugin wrapping django_tasks for background work"
 readme = "README.md"
 authors = [{ name = "Joel Sleppy", email = "joel@sleppytech.com" }]
